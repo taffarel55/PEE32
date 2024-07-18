@@ -1,14 +1,14 @@
-<!-- <div><img align='left' height='160'  src="assets/Embraer_logo.png"/>
-  <img align='right' height='160' src="assets/ITA_logo.png"/>
-</div> -->
-
 <h1 id="inicio" align="center">
-  
+
+  <div>
+    <img  height='60' src="assets/ITA_logo.png"/>
+    <img  height='60'  src="assets/Embraer_logo.png"/>
+  </div>
+  <br>
   Programa de Especialização em Engenharia
-  
 </h1>
 
-Parceria da Embraer com o ITA para engenheiro(a)s das mais diversas modalidades que queiram atuar com desenvolvimento integrado de produto, tecnologia e inovação.
+Parceria da Embraer com o ITA para engenheiro(a)s das mais diversas modalidades que queiram atuar com desenvolvimento integrado de produto, tecnologia e inovação. O Curso de Mestrado Profissional em Engenharia Aeronáutica do ITA foi criado para atender demanda de recursos humanos da Empresa Brasileira de Aeronáutica (EMBRAER), com o oferecimento de um conteúdo curricular dedicado às necessidades tecnológicas da empresa.
 
 ## 🌒 Fases do Programa de Especialização
 
@@ -32,7 +32,7 @@ Parceria da Embraer com o ITA para engenheiro(a)s das mais diversas modalidades 
       </td>
     </tr>
     <tr>
-        <td><a href="#"><img src="assets/books.png" width="2560px"></a></td>
+        <td><a href="fase 1"><img src="assets/books.png" width="2560px"></a></td>
         <td><a href="#"><img src="assets/badge.png" width="2560px"></a></td>
         <td><a href="#"><img src="assets/plane.png" width="2560px"></a></td>
         <td><a href="#"><img src="assets/open-book.png" width="2560px"></a></td>
