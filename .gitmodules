@@ -1,3 +1,42 @@
 [submodule "fase 1/aerodynamics"]
 	path = fase 1/aerodynamics
 	url = git@github.com:taffarel55/aerodynamics.git
+[submodule "fase 1/dynamic-systems-modeling"]
+	path = fase 1/dynamic-systems-modeling
+	url = git@github.com:taffarel55/dynamic-systems-modeling.git
+[submodule "fase 1/matlab-simulink"]
+	path = fase 1/matlab-simulink
+	url = git@github.com:taffarel55/matlab-simulink.git
+[submodule "fase 1/propulsion-systems"]
+	path = fase 1/propulsion-systems
+	url = git@github.com:taffarel55/propulsion-systems.git
+[submodule "fase 1/python"]
+	path = fase 1/python
+	url = git@github.com:taffarel55/python.git
+[submodule "fase 1/statistics"]
+	path = fase 1/statistics
+	url = git@github.com:taffarel55/statistics.git
+[submodule "fase 1/structures"]
+	path = fase 1/structures
+	url = git@github.com:taffarel55/structures.git
+[submodule "fase 1/model-based-systems-engineering"]
+	path = fase 1/model-based-systems-engineering
+	url = git@github.com:taffarel55/model-based-systems-engineering.git
+[submodule "fase 1/aircraft-performance"]
+	path = fase 1/aircraft-performance
+	url = git@github.com:taffarel55/aircraft-performance.git
+[submodule "fase 1/feedback-control"]
+	path = fase 1/feedback-control
+	url = git@github.com:taffarel55/feedback-control.git
+[submodule "fase 1/integrated-product-development"]
+	path = fase 1/integrated-product-development
+	url = git@github.com:taffarel55/integrated-product-development.git
+[submodule "fase 1/maintainability"]
+	path = fase 1/maintainability
+	url = git@github.com:taffarel55/maintainability.git
+[submodule "fase 1/manufacturing"]
+	path = fase 1/manufacturing
+	url = git@github.com:taffarel55/manufacturing.git
+[submodule "fase 1/stability-and-control"]
+	path = fase 1/stability-and-control
+	url = git@github.com:taffarel55/stability-and-control.git
