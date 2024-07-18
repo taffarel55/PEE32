@@ -1,0 +1,3 @@
+[submodule "fase 1/aerodynamics"]
+	path = fase 1/aerodynamics
+	url = git@github.com:taffarel55/aerodynamics.git
