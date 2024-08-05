@@ -40,3 +40,6 @@
 [submodule "fase 1/stability-and-control"]
 	path = fase 1/stability-and-control
 	url = git@github.com:taffarel55/stability-and-control.git
+[submodule "fase 2/transport-phenomena"]
+	path = fase 2/transport-phenomena
+	url = git@github.com:taffarel55/transport-phenomena.git
