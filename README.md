@@ -33,7 +33,7 @@ Parceria da Embraer com o ITA para engenheiro(a)s das mais diversas modalidades 
     </tr>
     <tr>
         <td><a href="fase 1"><img src="assets/books.png" width="2560px"></a></td>
-        <td><a href="#"><img src="assets/badge.png" width="2560px"></a></td>
+        <td><a href="fase 2"><img src="assets/badge.png" width="2560px"></a></td>
         <td><a href="#"><img src="assets/plane.png" width="2560px"></a></td>
         <td><a href="#"><img src="assets/open-book.png" width="2560px"></a></td>
     </tr>
