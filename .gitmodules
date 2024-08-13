@@ -46,3 +46,6 @@
 [submodule "fase 2/signals-and-systems"]
 	path = fase 2/signals-and-systems
 	url = git@github.com:taffarel55/signals-and-systems.git
+[submodule "fase 2/electrical-circuits"]
+	path = fase 2/electrical-circuits
+	url = git@github.com:taffarel55/electrical-circuits.git
