@@ -49,3 +49,6 @@
 [submodule "fase 2/electrical-circuits"]
 	path = fase 2/electrical-circuits
 	url = git@github.com:taffarel55/electrical-circuits.git
+[submodule "fase 2/artificial-intelligence"]
+	path = fase 2/artificial-intelligence
+	url = git@github.com:taffarel55/artificial-intelligence.git
