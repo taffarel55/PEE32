@@ -52,3 +52,6 @@
 [submodule "fase 2/artificial-intelligence"]
 	path = fase 2/artificial-intelligence
 	url = git@github.com:taffarel55/artificial-intelligence.git
+[submodule "fase 2/aircraft-design"]
+	path = fase 2/aircraft-design
+	url = git@github.com:taffarel55/aircraft-design.git
