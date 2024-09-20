@@ -55,3 +55,9 @@
 [submodule "fase 2/aircraft-design"]
 	path = fase 2/aircraft-design
 	url = git@github.com:taffarel55/aircraft-design.git
+[submodule "fase 2/multidisciplinary-design-optimization"]
+	path = fase 2/multidisciplinary-design-optimization
+	url = git@github.com:taffarel55/multidisciplinary-design-optimization.git
+[submodule "fase 2/aeronautical-communication-systems"]
+	path = fase 2/aeronautical-communication-systems
+	url = git@github.com:taffarel55/aeronautical-communication-systems.git
