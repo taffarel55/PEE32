@@ -61,6 +61,6 @@
 [submodule "fase 2/aeronautical-communication-systems"]
 	path = fase 2/aeronautical-communication-systems
 	url = git@github.com:taffarel55/aeronautical-communication-systems.git
-[submodule "fase 02/control-systems"]
-	path = fase 02/control-systems
+[submodule "fase 2/control-systems"]
+	path = fase 2/control-systems
 	url = git@github.com:taffarel55/control-systems.git
