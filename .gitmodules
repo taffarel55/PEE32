@@ -64,3 +64,6 @@
 [submodule "fase 2/control-systems"]
 	path = fase 2/control-systems
 	url = git@github.com:taffarel55/control-systems.git
+[submodule "fase 4"]
+	path = fase 4
+	url = git@github.com:taffarel55/masters-thesis.git
