@@ -73,3 +73,6 @@
 [submodule "fase 2/actuation-systems"]
 	path = fase 2/actuation-systems
 	url = git@github.com:taffarel55/actuation-systems.git
+[submodule "fase 2/software-certification"]
+	path = fase 2/software-certification
+	url = git@github.com:taffarel55/software-certification.git
