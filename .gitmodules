@@ -67,6 +67,7 @@
 [submodule "fase 4"]
 	path = fase 4
 	url = git@github.com:taffarel55/masters-thesis.git
+	branch = main
 [submodule "fase 2/amesim"]
 	path = fase 2/amesim
 	url = git@github.com:taffarel55/amesim.git
