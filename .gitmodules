@@ -77,3 +77,7 @@
 [submodule "fase 2/software-certification"]
 	path = fase 2/software-certification
 	url = git@github.com:taffarel55/software-certification.git
+[submodule "fase 3"]
+	path = fase 3
+	url = git@github.com:taffarel55/pee-internship.git
+	branch = main
